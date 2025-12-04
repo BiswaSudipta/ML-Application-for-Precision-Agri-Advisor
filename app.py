@@ -7,7 +7,7 @@ import joblib
 # 1. App Configuration & Branding
 # ==========================================
 st.set_page_config(
-    page_title="UPL NextGen Agri-Advisor",
+    page_title=" Precision Agri-Advisor",
     page_icon="🌱",
     layout="centered"
 )
@@ -146,4 +146,5 @@ if artifacts:
 
 else:
     st.error("Error: Model file not found. Please run 'train_model.py' first.")
+
 
