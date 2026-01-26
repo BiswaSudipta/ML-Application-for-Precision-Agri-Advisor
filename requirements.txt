@@ -1,9 +1,10 @@
-streamlit==1.19.0
-altair==4.2.2
-numpy<2
-pandas<3
+streamlit
+altair
+numpy
+pandas
 scikit-learn
 xgboost
 matplotlib
 seaborn
 joblib
+
